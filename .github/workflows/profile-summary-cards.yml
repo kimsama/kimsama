@@ -9,10 +9,10 @@ jobs :
   build : 
     runs-on : ubuntu-latest 
     name : GitHub-Profile-Summary-Cards 
-
+    
     steps : 
-      - uses : actions / checkout @ v0.2.3 
-      - uses : vn7n24fzkq / github-profile-summary-cards @ release 
+      #- uses : actions / checkout @ v0.2.3 
+      - uses : vn7n24fzkq/github-profile-summary-cards@v0.2.3
         env : 
           GITHUB_TOKEN : $ {{secrets.KIMSAMA_PROFILE_TOKEN }} 
         with : 
