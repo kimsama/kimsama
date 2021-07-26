@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kimsama)
 
 <br>
+<br>
 
 [![](https://raw.githubusercontent.com/kimsama/kimsama/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/kimsama/)
 [![](https://raw.githubusercontent.com/kimsama/kimsama/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/kimsama/)
